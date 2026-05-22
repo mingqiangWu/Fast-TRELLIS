@@ -1,4 +1,4 @@
-# 🚀 Fast-TRELLIS: [Official code repository] Fast-SAM3D on TRELLIS
+# 🚀 Fast-TRELLIS: Fast-SAM3D on TRELLIS [Official code repository] 
 
 <p align="center">
   <a href="https://github.com/microsoft/TRELLIS">
